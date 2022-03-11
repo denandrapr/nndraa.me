@@ -14,7 +14,7 @@ const Home: NextPage = () => {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Hello, My name is <a href="https://pornhub.com">Denandra</a>
+          Hello, My name is <a href="https://github.com/denandrapr">Denandra</a>
         </h1>
       </main>
 
